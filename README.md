@@ -3,7 +3,7 @@
 > This was my first programming "project" that was actually used in a real business. With that said, it's pretty rough and spaghetti-ish. Thanks for understanding.
 
 ## What is it?
-Random Stock Tickers is a Python script that sends an SMS (text) message containing market index updates using the Twilio API. If you would like to use this script, start a trial with Twilio at [https://www.twilio.com/try-twilio](https://www.twilio.com/try-twilio).
+SMS Market Index Updates is a Python script that sends an SMS (text) message containing market index updates using the Twilio API. If you would like to use this script, start a trial with Twilio at [https://www.twilio.com/try-twilio](https://www.twilio.com/try-twilio).
 
 ## Why did I make it?
 I developed it while working as an intern at a financial portfolio management company. My boss was heading out of town for nearly a month and wanted a way to access market index data in the situation that cell data was slow or hard to get. They asked me to send an hourly text to their phone containing updates on daily changes in the S&P 500, NASDAQ, Dow Jones Industrial, etc.
