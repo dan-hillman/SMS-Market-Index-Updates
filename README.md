@@ -1,7 +1,5 @@
 # SMS Market Index Updates
 
-> This was my first programming "project" that was actually used in a real business. With that said, it's pretty rough and spaghetti-ish. Thanks for understanding.
-
 ## What is it?
 SMS Market Index Updates is a Python script that sends an SMS (text) message containing market index updates using the Twilio API. If you would like to use this script, start a trial with Twilio at [https://www.twilio.com/try-twilio](https://www.twilio.com/try-twilio).
 
